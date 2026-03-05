@@ -143,7 +143,9 @@ the `MCP_SCANNER_LLM_API_KEY` variable is still required but can be set to any v
 Example:
 ```bash
 export MCP_SCANNER_LLM_API_KEY=test
-export MCP_SCANNER_LLM_ENDPOINT=http://localhost:11434
+export MCP_SCANNER_LLM_BASE_URL=http://localhost:11434
+# Optional: avoid LiteLLM remote metadata fetch warnings in restricted/offline environments
+export LITELLM_LOCAL_MODEL_COST_MAP=true
 ```
 
 ### Quick Start Examples
