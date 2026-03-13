@@ -85,3 +85,7 @@ Auto-maintained by `my-github-mcp` on `git_push`.
 | 2026-03-05T05:55:59.336841+00:00 | fix/readme-ollama-local-cost-map | origin | `5b9f4378fefc` | fix(cli): display correct server_label for behavioral command in detailed mode (#118) |
 | 2026-03-05T05:55:59.336841+00:00 | fix/readme-ollama-local-cost-map | origin | `77208f127c46` | chore(ci): update GitHub Actions for uv and Python (#101) |
 | 2026-03-05T05:55:59.336841+00:00 | fix/readme-ollama-local-cost-map | origin | `1d9754229b5b` | docs(readme): fix Ollama env var and add local cost-map tip |
+
+## 2026-03-13
+- Recorded and prepared local enhancements for publication.
+- Updated repository documentation to reflect current operational and integration changes.
